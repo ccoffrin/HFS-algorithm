@@ -3,6 +3,8 @@ HFS-algorithm
 
 The core of this repository was developed by Alex Selby.  The original source code is available [here](https://github.com/alex1770/QUBO-Chimera).  In contrast to the original, this repository focuses on the algorithmic code and includes a containerized version of the software for testing on non-linux platforms.
 
+Note that this code diverged from the source-repository commit `cf627afbf501c7028659553272611a7e313da531` so that large files could be removed from the git history.
+
 
 # Installation
 
